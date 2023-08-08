@@ -88,7 +88,7 @@ More important arguments described in [MAML Model](https://github.com/liufancs/M
 
 ## Results:
 <p>
-<img src="./images/result.png" width="800">
+<img src="./images/result.png" width="600">
 </p>
 
 Compare with vanilla methods, we can see that both newly built models obtain a significant improvement over
